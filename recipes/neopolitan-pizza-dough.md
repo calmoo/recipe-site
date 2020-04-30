@@ -38,6 +38,6 @@ Shape into pies
 ## notes
 
 
-[Reference](https://www.seriouseats.com/recipes/2010/09/hacker-free-neapolitan-pizza-for-a-home-kitchen-recipe.html)
+* https://www.seriouseats.com/recipes/2010/09/hacker-free-neapolitan-pizza-for-a-home-kitchen-recipe.html
 
 
