@@ -1,7 +1,5 @@
 # Neopolitan Pizza dough
 
-[Reference](https://www.seriouseats.com/recipes/2010/09/hacker-free-neapolitan-pizza-for-a-home-kitchen-recipe.html)
-
 ## ingredients 
 
 Makes 2 pizza bases
@@ -36,4 +34,10 @@ Shape into pies
 
 1. Take dough out, gently pat down ball, preserving edges until disc shaped.
 2. Throw onto your knuckles and let the base hang and stretch. Watch for tears.
+
+## notes
+
+
+[Reference](https://www.seriouseats.com/recipes/2010/09/hacker-free-neapolitan-pizza-for-a-home-kitchen-recipe.html)
+
 
