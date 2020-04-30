@@ -1,6 +1,4 @@
-Brioche burger buns
-======
-[Reference](https://www.youtube.com/watch?v=gTGSUYMu6Ns)
+#Brioche burger buns
 
 Schedule
 
