@@ -4,11 +4,11 @@ Makes one
 
 ## ingredients 
 
-50ml Whiskey
-.75oz (22.5ml) Lemon Juice
-.5oz (22.5ml) Simple Syrup
-1 Egg White ( keep as one for double recipe)
-Garnish Angostura Bitters
+- 50ml Whiskey
+- .75oz (22.5ml) Lemon Juice
+- .5oz Simple Syrup
+- 1 Egg White ( keep as one for double recipe)
+- Angostura Bitters
 
 ## steps:
 
